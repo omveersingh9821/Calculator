@@ -1,3 +1,3 @@
 # Calculator
 Technologies used HTML,CSS,JAVASCRIPT.
-Host Link:- omveersingh9821/Basic-Calculator 
+Host Link:- https://omveersingh9821.github.io/Calculator/
